@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag94459&theme=" alt="anurag94459" /></a> </p>
 
-*/- 🔭 I’m currently working on [Weather Application](https://github.com/anurag94459/Weather_App.git)/*
+<!-- - 🔭 I’m currently working on [Weather Application](https://github.com/anurag94459/Weather_App.git)-->
 - 👯 I’m looking to collaborate on [E-Learning](https://github.com/anurag94459/E-Learning-LMS/tree/my-new-branch)
 - 🌱 I’m currently learning **DevOps Tools.**
 - 💬 Ask me about **AWS , DSA**
@@ -12,7 +12,7 @@
 - 📄 Know about my experiences **Web Development internship at InternPe.**
 - ⚡ Fun fact **In case of fire, commit🔗 -> push 🫸 -> Leave 🏃‍♂️**
 
-<div> <a href="www.linkedin.com/in/anurag-kumar-jha-6297b9124" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://linkedin.com/in/anurag-kumar-jha-6297b9124/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/anurag94459" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/anurag_kumar2003" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:work.anuragjha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
